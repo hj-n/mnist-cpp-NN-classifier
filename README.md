@@ -43,4 +43,8 @@ As I mentioned above, the exercise contains written assignment, and I also uploa
 This directory contains template code of the classifier. If you want to implement MNIST NN classifier by your own, you can simply use the template in this directory. 
 (You can also find download link for .zip file in the [documentation](docs/documentation.pdf))
 
+### Thanks to...
+
+[HyTruongSon/Neural-Network-MNIST-CPP](https://github.com/HyTruongSon/Neural-Network-MNIST-CPP), which inspired my work
+
 
