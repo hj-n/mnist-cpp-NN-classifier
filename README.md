@@ -1,4 +1,5 @@
-## C++ Neural Net Classifier for MNIST
+## C++ Neural Net Classifier for MNIST ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 This repository contains a neural net classifier for MNIST implemented with C++. The code was implemented for educational purposes, and also contains document and template, which helps you implement your classifier.
 
