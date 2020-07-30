@@ -2,10 +2,13 @@
 
 This repository contains a neural net classifier for MNIST implemented with C++. The code was implemented for educational purposes, and also contains document and template, which helps you implement your classifier.
 
+### Description
 
+The neural net classifier consists of three layers : INPUT, HIDDEN, and OUTPUT. Successive layers are *fully-connected* each other, and uses *sigmoid* as an activation function. 
 
+For detailed explanation, check [documentation](docs/documentation.pdf).
 
-### Components
+### Repo Components
 
 #### `src/`
 
