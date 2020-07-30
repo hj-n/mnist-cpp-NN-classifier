@@ -6,7 +6,7 @@ This repository contains a neural net classifier for MNIST implemented with C++.
 
 The neural net classifier consists of three layers : INPUT, HIDDEN, and OUTPUT. Successive layers are *fully-connected* each other, and uses *sigmoid* as an activation function. 
 
-![image](./imgs/overview.png)
+<center><img src="./imgs/overview.png" width="500px"></center>
 
 For detailed explanation, check [documentation](docs/documentation.pdf).
 
@@ -30,7 +30,7 @@ The document also offers you the **Exercise**, or assignment. You can easily des
 
 You final executable should generate such output:
 
-![image](imgs/result.png)
+<center><img src="./imgs/result.png" width="300px"></center>
 
 Good Luck!!
 
